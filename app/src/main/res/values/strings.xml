@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name"> MeteoTrip </string>
+    <string name="add_city"> Add city </string>
+    <string name="header_text" > My travel itinerary. </string>
+    <string name="city_name">City Name</string>
+    <string name="temperature">24º</string>
+    <string name="number_of_days">27-28</string>
+    <string name="contentdescription">contentDescription</string>
+    <string name="hint_city_name" />
+    <string name="add"> Add </string>
+    <string name="cancel"> Cancel </string>
+    <string name="select_date">Select Date</string>
+</resources>
