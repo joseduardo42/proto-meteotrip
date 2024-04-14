@@ -1,3 +1,7 @@
+# À propos du projet
+
+Ce projet a pour objectif principal la visualisation des conditions climatiques de l'itinéraire à visiter dans un délai de sept jours pour un voyage. Vous pouvez ajouter des villes en utilisant le bouton flottant situé dans le coin inférieur droit, et les supprimer en les faisant glisser vers la gauche.
+
 # Guide de démarrage rapide
 
 Ce guide vous explique comment cloner et construire ce projet Android Studio sur votre machine locale.
